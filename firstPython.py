@@ -1,3 +1,11 @@
+"""
+
+Author: Mark Arakaki
+October 14, 2017
+Personal Practice Use
+
+"""
+
 firstVariable = 45
 
 print firstVariable

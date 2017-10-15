@@ -1,4 +1,11 @@
 """
+
+************************************************
+Author: Mark Arakaki
+October 15, 2017
+Personal Practice Use
+************************************************
+
     This program asks the user to enter their name and their age. Then the program will print out a message addressed to them that tell them the year they will turn 100 years old.
 """
 
